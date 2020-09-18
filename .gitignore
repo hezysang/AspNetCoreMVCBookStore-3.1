@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/SangBookStore/.vs/SangBookStore
+/SangBookStore/SangBookStore/bin/Debug/netcoreapp3.1
+/SangBookStore/SangBookStore/obj
